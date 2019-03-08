@@ -1,0 +1,14 @@
+/Users/chalermchai/Documents/ionic/POS/myPos/bin/Debug/netcoreapp2.2/myPos.deps.json
+/Users/chalermchai/Documents/ionic/POS/myPos/bin/Debug/netcoreapp2.2/myPos.runtimeconfig.json
+/Users/chalermchai/Documents/ionic/POS/myPos/bin/Debug/netcoreapp2.2/myPos.runtimeconfig.dev.json
+/Users/chalermchai/Documents/ionic/POS/myPos/bin/Debug/netcoreapp2.2/myPos.dll
+/Users/chalermchai/Documents/ionic/POS/myPos/bin/Debug/netcoreapp2.2/myPos.pdb
+/Users/chalermchai/Documents/ionic/POS/myPos/obj/Debug/netcoreapp2.2/myPos.csprojAssemblyReference.cache
+/Users/chalermchai/Documents/ionic/POS/myPos/obj/Debug/netcoreapp2.2/myPos.csproj.CoreCompileInputs.cache
+/Users/chalermchai/Documents/ionic/POS/myPos/obj/Debug/netcoreapp2.2/myPos.RazorAssemblyInfo.cache
+/Users/chalermchai/Documents/ionic/POS/myPos/obj/Debug/netcoreapp2.2/myPos.RazorAssemblyInfo.cs
+/Users/chalermchai/Documents/ionic/POS/myPos/obj/Debug/netcoreapp2.2/myPos.AssemblyInfoInputs.cache
+/Users/chalermchai/Documents/ionic/POS/myPos/obj/Debug/netcoreapp2.2/myPos.AssemblyInfo.cs
+/Users/chalermchai/Documents/ionic/POS/myPos/obj/Debug/netcoreapp2.2/myPos.RazorTargetAssemblyInfo.cache
+/Users/chalermchai/Documents/ionic/POS/myPos/obj/Debug/netcoreapp2.2/myPos.dll
+/Users/chalermchai/Documents/ionic/POS/myPos/obj/Debug/netcoreapp2.2/myPos.pdb
